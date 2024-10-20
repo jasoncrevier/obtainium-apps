@@ -33,4 +33,4 @@ I use [Obtainium](https://obtainium.imranr.dev/) to manage these apps:
 # My setup
 I'm running [GrapheneOS](https://grapheneos.org/) with no Google account signed in. My goal is to use as many FOSS apps as possible, and use [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) to fill in the gaps. I try to get releases directly from GitHub/GitLab where possible, and [F-Droid](https://f-droid.org) repos otherwise.
 
-I also my apps to use Material You theming where possible (hence the duplicates of stock AOSP apps like Gallery and Calendar -- shout out to [Fossify](https://www.fossify.org/)!)
+I also want my apps to use Material You theming where possible (hence the duplicates of stock AOSP apps like Gallery and Calendar -- shout out to [Fossify](https://www.fossify.org/)!).
